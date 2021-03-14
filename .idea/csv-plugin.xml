@@ -10,38 +10,17 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\src\main\java\ChromeDriver.java">
+        <entry key="\src\main\java\Login_1.java">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\src\main\java\Start.java">
+        <entry key="\src\test\java\TestLogin.java">
           <value>
             <Attribute>
-              <option name="separator" value=";" />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\src\main\java\ru\geekbrains\Test.java">
-          <value>
-            <Attribute>
-              <option name="separator" value=";" />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\src\main\java\ru\geekbrains\Test_1.java">
-          <value>
-            <Attribute>
-              <option name="separator" value=";" />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\src\test\java\ru\geekbrains\AppTest.java">
-          <value>
-            <Attribute>
-              <option name="separator" value=";" />
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
